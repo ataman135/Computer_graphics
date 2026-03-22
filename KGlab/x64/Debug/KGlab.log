@@ -1,4 +1,4 @@
 ﻿  Render.cpp
-D:\Education\Computer_graphics\LAB1\KGlab\Render.cpp(28,32): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
-D:\Education\Computer_graphics\LAB1\KGlab\Render.cpp(29,32): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+D:\Education\Computer_graphics\LAB1\KGlab\Render.cpp(38,32): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+D:\Education\Computer_graphics\LAB1\KGlab\Render.cpp(39,32): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
   KGlab.vcxproj -> D:\Education\Computer_graphics\LAB1\x64\Debug\KGlab.exe
